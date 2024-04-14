@@ -3,10 +3,10 @@ This repository uses [Spring Boot](https://docs.spring.io/spring-boot/docs/curre
 
 ## Api Routes
 
-- /secure-password
+- /validate-password
 
 ```json
 {
-    "password": "xGQIY5O&t$yfI@v"
+    "password": "xGQIF5O&t$yhI@v"
 }
 ```
